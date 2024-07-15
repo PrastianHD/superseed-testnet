@@ -1,0 +1,19 @@
+{
+  "L1": {
+    "name": "Sepolia",
+    "rpc": "https://rpc.sepolia.org",
+    "chainId": 11155111
+  },
+  "L2": {
+    "name": "Superseed Sepolia Testnet",
+    "rpc": "https://sepolia.superseed.xyz",
+    "chainId": 53302
+  },
+  "addresses": {
+    "AddressManager": "0xfD1d00126Af6a0dee3d4795203A635198de0b9e4",
+    "L1CrossDomainMessenger": "0x56BC9827610EF2DA23AE7D3eea1e1cc16A136Ec4",
+    "L1StandardBridge": "0x2B227A603fAAdB3De0ED050b63ADD232B5f2c28C",
+    "OptimismPortal": "0x7A0db8C51432d2C3eb4e8f360a2EeB26FF2809fB",
+    "L2OutputOracle": "0x4F63AcEF04c2469977F31Bc12b5Df1589c3046E2"
+  }
+}

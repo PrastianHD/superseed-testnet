@@ -1,0 +1,8 @@
+{
+  "Superseed Testnet": {
+    "RPC_URL": "https://sepolia.superseed.xyz",
+    "CHAIN_ID": 53302,
+    "WETH_ADDRESS": "0xf6a65e0fEde6c799887B766D5d0A049f19951670" 
+  }
+}
+

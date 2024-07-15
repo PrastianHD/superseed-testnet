@@ -1,0 +1,23 @@
+{
+  "name": "superseed-testnet",
+  "version": "1.0.0",
+  "description": "Superseed Testnet Script",
+  "main": "index.js",
+  "type": "commonjs",
+  "dependencies": {
+    "@eth-optimism/sdk": "^3.3.2",
+    "chalk": "4.1.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2",
+    "figlet": "^1.5.2",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
